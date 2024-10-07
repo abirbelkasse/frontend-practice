@@ -14,8 +14,19 @@
         font-size: 55px;
         margin-bottom: 55px;
         padding: 0 100px;
-
       }
+      .btn-group{
+        display: inline-block;
+        background-color: rgb(76, 55, 110);
+        border-radius: 4px;
+        font-size: 16px;
+        color: #b74b4b;
+        letter-spacing:0px;
+        font-weight: 100;
+        border: 2px solid #b74b4b;
+        transition: 0.3s ease;
+    cursor: pointer;
+    }    
      .img-group  img{
         width: 500px;
         height: 500px;
